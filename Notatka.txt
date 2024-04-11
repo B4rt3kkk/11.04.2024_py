@@ -1,0 +1,8 @@
+zad1. napisz program który po wczytaniu 10 liczb wskaże te które potraktowane jako długości boków utworzą prostokąt o największym polu.
+
+zad2. napisz program obliczający sumę N kolejnych liczb naturalnych w którym nie będziesz używać zmiennej składnik a wartość składnika będzie ustalana na podstawie zmiennej sterującej I
+
+zad3. napisz prgoram który będzie grą w zgadywanie ustalonej liczby z przedziału od 0 do 100 program powinien działać do momentu podania przez użytkowanika właściwej liczby. po każdej próbie odgadnięcia liczby program powinien wypisać jedn z komunikatów za mało za duzo brawo udało ci się za x razem gdzie x oznacza liczbe prób które wkonał użytkownik
+
+zad4. napisz program ktory będzie wczytywał podne przez użytkownika liczby 1 i 2 cyfrowe całkowite i sumował je do momentu otrzymania sumy przekraczającej 123. program powinien zwrucic informacje o liczbie skladników sumy i wartość sumy
+
